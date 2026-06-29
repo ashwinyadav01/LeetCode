@@ -11,4 +11,12 @@
 |  |
 | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ashwinyadav01/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+## Array
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ashwinyadav01/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ashwinyadav01/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
