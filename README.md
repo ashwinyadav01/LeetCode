@@ -7,4 +7,8 @@
 | [0584-find-customer-referee](https://github.com/ashwinyadav01/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/ashwinyadav01/LeetCode/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/ashwinyadav01/LeetCode/tree/master/1148-article-views-i) |
+## Math
+|  |
+| ------- |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ashwinyadav01/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 <!---LeetCode Topics End-->
